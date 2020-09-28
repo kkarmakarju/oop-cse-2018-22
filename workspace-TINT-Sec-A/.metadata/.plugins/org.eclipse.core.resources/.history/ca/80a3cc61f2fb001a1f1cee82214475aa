@@ -1,0 +1,9 @@
+package in.edu.tint.cse.test;
+
+public class X {
+	private int a;
+	int b;
+	protected int c;
+	public int d;
+
+}

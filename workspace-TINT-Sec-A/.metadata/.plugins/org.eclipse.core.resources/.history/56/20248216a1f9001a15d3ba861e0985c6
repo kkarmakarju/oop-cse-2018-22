@@ -1,0 +1,25 @@
+
+public class SavingsAcc {
+
+	void withdrawByCash() {
+	}
+
+	void method4PayTM();
+	
+	void withdrawByCheck() {
+	}
+
+	void depositByCash() {
+	}
+
+	void depositByCheque() {
+
+	}
+
+	void getAccountBalance() {
+	}
+
+	void checkSufficientBalance(int amount) {
+		
+	}
+}

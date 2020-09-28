@@ -1,0 +1,5 @@
+package in.edu.tint.cse.project;
+
+public interface Intf1 {
+	void method1();
+}

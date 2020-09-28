@@ -1,0 +1,7 @@
+
+public class Account {
+	String accno;
+	String customerName;
+	
+	void calculateInterest();
+}

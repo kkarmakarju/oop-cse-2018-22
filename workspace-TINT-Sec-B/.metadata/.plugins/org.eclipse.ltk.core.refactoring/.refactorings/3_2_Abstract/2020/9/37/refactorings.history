@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;DepositAccount&apos; to &apos;FixedDepositAccount&apos;&#x0D;&#x0A;- Original project: &apos;3_2_Abstract&apos;&#x0D;&#x0A;- Original element: &apos;DepositAccount&apos;&#x0D;&#x0A;- Renamed element: &apos;FixedDepositAccount&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;DepositAccount&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{DepositAccount.java[DepositAccount" matchStrategy="1" name="FixedDepositAccount" qualified="false" references="true" similarDeclarations="false" stamp="1599453268125" textual="false" version="1.0"/>
+</session>

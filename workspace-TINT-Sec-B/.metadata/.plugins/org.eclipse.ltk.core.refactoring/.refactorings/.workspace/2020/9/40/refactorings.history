@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;9_Multi-Threadin&apos; to &apos;9_Multi-Threading&apos;&#x0D;&#x0A;- Original element: &apos;9_Multi-Threadin&apos;&#x0D;&#x0A;- Renamed element: &apos;9_Multi-Threadin&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;9_Multi-Threadin&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=9_Multi-Threadin" name="9_Multi-Threading" references="true" stamp="1601265705161" version="1.0"/>
+</session>

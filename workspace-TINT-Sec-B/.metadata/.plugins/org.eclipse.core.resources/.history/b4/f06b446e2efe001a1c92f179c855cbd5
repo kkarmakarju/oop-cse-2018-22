@@ -1,0 +1,19 @@
+package in.edu.tint.cse.sample.proj2;
+
+public class TestMain {
+
+	public static void main(String[] args) throws MyException {
+
+		SavingsAcc acc = new SavingsAcc();
+		System.out.println("Begin....");
+		try {
+			acc.withdraw(5000);
+			System.out.println("Trnascation successful.");
+		} catch (MyException e) {
+			System.out.println("Insufficient Balance.");
+		}
+		System.out.println("End....");
+
+	}
+
+}

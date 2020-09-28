@@ -1,0 +1,16 @@
+package in.edu.tint.cse.sample.proj2;
+
+public class TestMain {
+
+	public static void main(String[] args) throws MyException {
+		int accbalance = 10000;
+		int withdrawamount = 3000;
+		if (accbalance < withdrawamount) {
+			throw new MyException();
+		} else {
+			accbalance -= withdrawamount;
+		}
+
+	}
+
+}

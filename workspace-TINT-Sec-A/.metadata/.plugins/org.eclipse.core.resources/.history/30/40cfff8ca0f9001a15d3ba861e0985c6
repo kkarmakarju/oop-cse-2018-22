@@ -1,0 +1,19 @@
+
+public class SavingsAcc {
+
+	void withdrawByCash() {
+	}
+
+	void withdrawbyCheck() {
+	}
+
+	void depositByCash() {
+	}
+
+	void depositByCCheque() {
+	}
+
+	void getAccountBalance() {
+	}
+
+}

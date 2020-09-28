@@ -1,0 +1,14 @@
+package in.edu.tint.cse.sample.proj;
+
+public class Sample {
+
+	public void method1() throws Exception {
+		int x = 10;
+		int y = 0;
+		int[] arr = new int[10];
+
+		System.out.println(x / y);
+		System.out.println(arr[15]);
+
+	}
+}

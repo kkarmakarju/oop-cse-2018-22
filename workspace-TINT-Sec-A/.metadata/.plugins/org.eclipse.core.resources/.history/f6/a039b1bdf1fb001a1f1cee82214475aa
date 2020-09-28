@@ -1,0 +1,20 @@
+package in.edu.tint.cse.project;
+
+public class TestMain {
+
+	public static void main(String[] args) {
+		A a = new A();
+		a.method1();
+		a.method2();
+
+		Intf1 i1 = new A();
+		i1.method1();
+		// i1.method2();
+
+		Intf2 i2 = new A();
+		i2.method2();
+		// i2.method1();
+
+	}
+
+}

@@ -1,0 +1,12 @@
+package in.edu.tint.cse.sample.proj1;
+
+public class TestMain2 {
+
+	public static void main(String[] args) {
+		
+		System.out.println(VirtualMachineError.class);
+		System.out.println(StackOverflowError.class);
+		
+	}
+
+}

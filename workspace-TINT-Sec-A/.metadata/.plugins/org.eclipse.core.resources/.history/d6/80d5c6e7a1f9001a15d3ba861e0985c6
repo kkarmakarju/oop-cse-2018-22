@@ -1,0 +1,7 @@
+
+public interface OtherBankIntf {
+
+	void withdrawByCheck();
+	public void receiveNEFT() ;
+
+}

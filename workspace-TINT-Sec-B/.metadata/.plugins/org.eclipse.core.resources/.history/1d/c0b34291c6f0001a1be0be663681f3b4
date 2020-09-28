@@ -1,0 +1,8 @@
+
+public class FixedDepositAccount extends Account {
+
+	void calculateInterest() {
+		// logic
+	}
+
+}

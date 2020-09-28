@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Batch-A&apos; to &apos;1_TestConstructors&apos;" description="Rename resource &apos;Batch-A&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Batch-A" name="1_TestConstructors" stamp="1599215879447" updateReferences="true"/>
+</session>
