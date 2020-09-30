@@ -1,6 +1,0 @@
-package in.edu.tint.it;
-import in.edu.tint.cse.*;
-
-public class C extends A{
-
-}

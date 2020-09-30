@@ -1,5 +1,0 @@
-package in.edu.tint.cse;
-
-public abstract class A {
-	abstract void show();
-}

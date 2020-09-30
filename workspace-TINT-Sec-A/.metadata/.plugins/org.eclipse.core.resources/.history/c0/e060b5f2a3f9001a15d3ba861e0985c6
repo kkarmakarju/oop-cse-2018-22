@@ -1,5 +1,0 @@
-package in.edu.tint.it;
-
-public class C extends A{
-
-}

@@ -1,7 +1,0 @@
-package in.edu.tint.cse.project;
-
-import in.edu.tint.cse.test.X;
-
-public class Y extends X {
-
-}

@@ -10,7 +10,7 @@ public class MyThread extends Thread {
 		System.out.println(name + " : I am in MyThread constructor");
 		t.start();
 	}
-
+	
 	public void run() {
 		try {
 			t.sleep(1);

@@ -16,7 +16,6 @@
     <fullyQualifiedTypeName name="A"/>
     <fullyQualifiedTypeName name="Student"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="sun.awt.Symbol"/>
     <fullyQualifiedTypeName name="pkg1.C"/>
     <fullyQualifiedTypeName name="pkg1.A"/>
@@ -33,9 +32,17 @@
     <fullyQualifiedTypeName name="in.edu.tint.cse.project.Intf1"/>
     <fullyQualifiedTypeName name="in.edu.tint.cse.project.C"/>
     <fullyQualifiedTypeName name="Sample"/>
-    <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
-    <fullyQualifiedTypeName name="java.lang.Exception"/>
-    <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
     <fullyQualifiedTypeName name="java.lang.VirtualMachineError"/>
     <fullyQualifiedTypeName name="java.lang.StackOverflowError"/>
+    <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="in.edu.tint.cse.test.MyException"/>
+    <fullyQualifiedTypeName name="in.edu.tint.cse.test.Cal"/>
+    <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
+    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
+    <fullyQualifiedTypeName name="java.io.InputStream"/>
+    <fullyQualifiedTypeName name="jdk.internal.org.jline.utils.InputStreamReader"/>
+    <fullyQualifiedTypeName name="java.io.InputStreamReader"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
 </qualifiedTypeNameHistroy>

@@ -1,5 +1,0 @@
-package in.edu.tint.cse.project;
-
-public class A implements Intf1, Intf2 {
-
-}
