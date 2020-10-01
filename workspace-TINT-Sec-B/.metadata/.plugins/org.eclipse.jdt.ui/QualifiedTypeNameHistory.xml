@@ -28,4 +28,5 @@
     <fullyQualifiedTypeName name="java.lang.Readable"/>
     <fullyQualifiedTypeName name="java.lang.Runnable"/>
     <fullyQualifiedTypeName name="in.edu.tint.cse.demo.MyThread"/>
+    <fullyQualifiedTypeName name="in.edu.tint.cse.demo.MyThread2"/>
 </qualifiedTypeNameHistroy>

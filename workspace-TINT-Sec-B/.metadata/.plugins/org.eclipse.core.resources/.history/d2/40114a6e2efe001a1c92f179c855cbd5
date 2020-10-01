@@ -1,5 +1,0 @@
-package in.edu.tint.cse.sample.proj2;
-
-public class MyException extends Exception {
-
-}
