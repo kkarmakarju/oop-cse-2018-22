@@ -12,7 +12,6 @@
     <fullyQualifiedTypeName name="DepositAccount"/>
     <fullyQualifiedTypeName name="Account"/>
     <fullyQualifiedTypeName name="LoanAccount"/>
-    <fullyQualifiedTypeName name="SavingsAccount"/>
     <fullyQualifiedTypeName name="A"/>
     <fullyQualifiedTypeName name="Student"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
@@ -35,7 +34,6 @@
     <fullyQualifiedTypeName name="java.lang.VirtualMachineError"/>
     <fullyQualifiedTypeName name="java.lang.StackOverflowError"/>
     <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
-    <fullyQualifiedTypeName name="java.lang.Exception"/>
     <fullyQualifiedTypeName name="in.edu.tint.cse.test.MyException"/>
     <fullyQualifiedTypeName name="in.edu.tint.cse.test.Cal"/>
     <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
@@ -47,6 +45,9 @@
     <fullyQualifiedTypeName name="java.io.IOException"/>
     <fullyQualifiedTypeName name="java.lang.Class"/>
     <fullyQualifiedTypeName name="java.lang.Runnable"/>
-    <fullyQualifiedTypeName name="java.lang.Thread"/>
     <fullyQualifiedTypeName name="in.edu.tint.cse.A"/>
+    <fullyQualifiedTypeName name="in.edu.tint.cse.B"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="SavingsAccount"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
 </qualifiedTypeNameHistroy>

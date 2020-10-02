@@ -5,13 +5,14 @@ public class SavingsAccount extends Thread {
 	public void run() {
 		getAccountBalance();
 		withdraw(1000);
+		
 	}
 
 	int getAccountBalance() {
 		return ab;
 	}
 
-	synchronized void withdraw(int wa) {
-		ab -= wa;
+	synchronized static void withdraw(int wa) {
+		// ab -= wa;
 	}
 }
