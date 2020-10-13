@@ -1,8 +1,0 @@
-package in.edu.tint.cse.demo;
-
-public class MyThread2 implements Runnable{
-
-	public void run() {
-		System.out.println("I am in run");
-	}
-}

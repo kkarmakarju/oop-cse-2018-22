@@ -1,5 +1,0 @@
-package in.edu.tint.cse.demo;
-
-public class MyThread2 implements Runnable{
-
-}
