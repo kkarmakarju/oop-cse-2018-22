@@ -29,4 +29,7 @@
     <fullyQualifiedTypeName name="java.lang.Runnable"/>
     <fullyQualifiedTypeName name="in.edu.tint.cse.demo.MyThread"/>
     <fullyQualifiedTypeName name="in.edu.tint.cse.demo.MyThread2"/>
+    <fullyQualifiedTypeName name="in.edu.tint.cse.sample.Person"/>
+    <fullyQualifiedTypeName name="in.edu.tint.cse.sample.Course"/>
+    <fullyQualifiedTypeName name="in.edu.tint.cse.sample.Student"/>
 </qualifiedTypeNameHistroy>

@@ -1,8 +1,13 @@
 package in.edu.tint.cse;
 
 public class Teacher extends Person {
+
 	int empId;
 	String dateOfJoining;
+
+	public Teacher(String name, String address) {
+		super(name, address);
+	}
 
 	public Teacher(String name, String address, int empId, String dateOfJoining) {
 		super(name, address);

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="X"/>
     <fullyQualifiedTypeName name="Calculator"/>
     <fullyQualifiedTypeName name="C"/>
     <fullyQualifiedTypeName name="B"/>
@@ -50,7 +49,15 @@
     <fullyQualifiedTypeName name="java.lang.Thread"/>
     <fullyQualifiedTypeName name="SavingsAccount"/>
     <fullyQualifiedTypeName name="java.lang.Exception"/>
-    <fullyQualifiedTypeName name="in.edu.tint.cse.Sample"/>
-    <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="java.lang.Float"/>
+    <fullyQualifiedTypeName name="in.edu.tint.cse.Course"/>
+    <fullyQualifiedTypeName name="in.edu.tint.cse.MyClass"/>
+    <fullyQualifiedTypeName name="in.edu.tint.cse.MyIntf"/>
+    <fullyQualifiedTypeName name="in.edu.tint.cse.SampleIntf"/>
+    <fullyQualifiedTypeName name="in.edu.tint.cse.Sample"/>
+    <fullyQualifiedTypeName name="in.edu.tint.cse.Gen"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.Vector"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
 </qualifiedTypeNameHistroy>
