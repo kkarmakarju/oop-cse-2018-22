@@ -6,7 +6,10 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
+		<item key="selection" value="synch"/>
 		<list key="findhistory">
+			<item value="synch"/>
+			<item value="thread"/>
 		</list>
 		<list key="replacehistory">
 		</list>

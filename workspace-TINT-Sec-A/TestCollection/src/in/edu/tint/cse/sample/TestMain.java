@@ -1,6 +1,8 @@
 package in.edu.tint.cse.sample;
 
 import java.util.ArrayList;
+import java.util.Collection;
+import java.util.Collections;
 
 public class TestMain {
 
@@ -44,6 +46,9 @@ public class TestMain {
 			System.out.println(s);
 		}
 		System.out.println(arrayList1);
+		
+		
+		//Collections
 	}
 
 }

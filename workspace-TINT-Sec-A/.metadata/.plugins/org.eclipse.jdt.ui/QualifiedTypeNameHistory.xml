@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="Calculator"/>
-    <fullyQualifiedTypeName name="C"/>
-    <fullyQualifiedTypeName name="B"/>
-    <fullyQualifiedTypeName name="sun.jvm.hotspot.ui.SAEditorPane"/>
-    <fullyQualifiedTypeName name="HomeLoan"/>
-    <fullyQualifiedTypeName name="EducationLoan"/>
-    <fullyQualifiedTypeName name="LoanAcount"/>
     <fullyQualifiedTypeName name="Customer"/>
     <fullyQualifiedTypeName name="DepositAccount"/>
     <fullyQualifiedTypeName name="Account"/>
@@ -59,5 +52,12 @@
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="java.util.Vector"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
     <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.util.TreeMap"/>
+    <fullyQualifiedTypeName name="java.util.Collection"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="java.util.TreeSet"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
 </qualifiedTypeNameHistroy>

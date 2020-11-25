@@ -9,7 +9,7 @@ public class TestMainVector {
 		vStrings.add("SDF");
 		vStrings.remove(0);
 		System.out.println(vStrings.lastElement());
-		
+
 		for (String v : vStrings) {
 			System.out.println(v);
 		}
