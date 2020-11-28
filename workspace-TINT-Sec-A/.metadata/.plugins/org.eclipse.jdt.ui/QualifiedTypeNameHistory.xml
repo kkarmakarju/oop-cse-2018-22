@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="Customer"/>
-    <fullyQualifiedTypeName name="DepositAccount"/>
-    <fullyQualifiedTypeName name="Account"/>
-    <fullyQualifiedTypeName name="LoanAccount"/>
-    <fullyQualifiedTypeName name="A"/>
-    <fullyQualifiedTypeName name="Student"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="sun.awt.Symbol"/>
     <fullyQualifiedTypeName name="pkg1.C"/>
@@ -49,15 +43,21 @@
     <fullyQualifiedTypeName name="in.edu.tint.cse.SampleIntf"/>
     <fullyQualifiedTypeName name="in.edu.tint.cse.Sample"/>
     <fullyQualifiedTypeName name="in.edu.tint.cse.Gen"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="java.util.Vector"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="java.util.HashMap"/>
     <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="java.util.TreeMap"/>
     <fullyQualifiedTypeName name="java.util.Collection"/>
-    <fullyQualifiedTypeName name="java.util.Collections"/>
     <fullyQualifiedTypeName name="java.util.TreeSet"/>
     <fullyQualifiedTypeName name="java.util.Set"/>
     <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="java.lang.Comparable"/>
+    <fullyQualifiedTypeName name="in.edu.tint.cse.sample.comp.Item"/>
+    <fullyQualifiedTypeName name="java.util.Comparator"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="in.edu.tint.cse.sample.comp.Book"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="in.edu.tint.cse.sample.comp.IdComparator"/>
 </qualifiedTypeNameHistroy>
