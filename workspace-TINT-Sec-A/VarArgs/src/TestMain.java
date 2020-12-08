@@ -20,7 +20,6 @@ public class TestMain {
 		// System.out.println(calculator.add(10, 10, 21));
 		// System.out.println(calculator.add(10, 1, 8, 7, 21));
 
-		
 	}
 
 }
