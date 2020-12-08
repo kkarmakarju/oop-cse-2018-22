@@ -40,4 +40,5 @@
     <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="java.util.TreeMap"/>
     <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="in.edu.tint.cse.demo.Demo"/>
 </qualifiedTypeNameHistroy>

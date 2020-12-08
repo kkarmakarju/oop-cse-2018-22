@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="sun.awt.Symbol"/>
-    <fullyQualifiedTypeName name="pkg1.C"/>
     <fullyQualifiedTypeName name="pkg1.A"/>
     <fullyQualifiedTypeName name="java.util.Date"/>
     <fullyQualifiedTypeName name="in.edu.tint.cse.proj1.Intf1"/>
@@ -60,4 +57,7 @@
     <fullyQualifiedTypeName name="in.edu.tint.cse.sample.comp.Book"/>
     <fullyQualifiedTypeName name="java.util.Collections"/>
     <fullyQualifiedTypeName name="in.edu.tint.cse.sample.comp.IdComparator"/>
+    <fullyQualifiedTypeName name="A"/>
+    <fullyQualifiedTypeName name="B"/>
+    <fullyQualifiedTypeName name="Calculator"/>
 </qualifiedTypeNameHistroy>
