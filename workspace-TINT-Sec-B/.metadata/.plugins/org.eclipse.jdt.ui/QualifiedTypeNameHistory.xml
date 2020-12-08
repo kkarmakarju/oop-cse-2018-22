@@ -6,7 +6,6 @@
     <fullyQualifiedTypeName name="Z"/>
     <fullyQualifiedTypeName name="pkg1.C"/>
     <fullyQualifiedTypeName name="pkg1.A"/>
-    <fullyQualifiedTypeName name="java.util.Date"/>
     <fullyQualifiedTypeName name="in.edu.tint.cse.proj.A"/>
     <fullyQualifiedTypeName name="in.edu.tint.cse.proj.I2"/>
     <fullyQualifiedTypeName name="in.edu.tint.cse.proj3.I1"/>
@@ -41,4 +40,6 @@
     <fullyQualifiedTypeName name="java.util.TreeMap"/>
     <fullyQualifiedTypeName name="java.util.Map"/>
     <fullyQualifiedTypeName name="in.edu.tint.cse.demo.Demo"/>
+    <fullyQualifiedTypeName name="in.edu.tint.cse.pkg1.A"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
 </qualifiedTypeNameHistroy>
