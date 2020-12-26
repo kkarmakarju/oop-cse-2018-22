@@ -23,7 +23,6 @@
     <fullyQualifiedTypeName name="java.lang.Exception"/>
     <fullyQualifiedTypeName name="in.edu.tint.cse.sample.proj2.MyException"/>
     <fullyQualifiedTypeName name="in.edu.tint.cse.sample.proj2.SavingsAcc"/>
-    <fullyQualifiedTypeName name="java.lang.Thread"/>
     <fullyQualifiedTypeName name="java.lang.Readable"/>
     <fullyQualifiedTypeName name="java.lang.Runnable"/>
     <fullyQualifiedTypeName name="in.edu.tint.cse.demo.MyThread"/>
@@ -42,4 +41,6 @@
     <fullyQualifiedTypeName name="in.edu.tint.cse.demo.Demo"/>
     <fullyQualifiedTypeName name="in.edu.tint.cse.pkg1.A"/>
     <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="in.edu.tint.cse.demo.DemoThread"/>
 </qualifiedTypeNameHistroy>

@@ -14,9 +14,9 @@
 		</list>
 	</section>
 	<section name="NewWizardAction">
-		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jst.servlet.ui.project.facet.WebProjectWizard"/>
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="com.google.cloud.tools.eclipse.appengine.newproject.AppEngineStandard"/>
 		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
-			<item value="org.eclipse.wst.web.ui"/>
+			<item value="com.google.cloud.tools.eclipse.wizards"/>
 		</list>
 	</section>
 	<section name="ChooseWorkspaceDialogSettings">
