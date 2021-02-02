@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename type &apos;in.edu.tint.cse.demo.MyThread2&apos; to &apos;MyThreadRunnable&apos;&#x0D;&#x0A;- Original project: &apos;9_Multi-Threading&apos;&#x0D;&#x0A;- Original element: &apos;in.edu.tint.cse.demo.MyThread2&apos;&#x0D;&#x0A;- Renamed element: &apos;in.edu.tint.cse.demo.MyThreadRunnable&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;MyThread2&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;in.edu.tint.cse.demo{MyThread2.java[MyThread2" matchStrategy="1" name="MyThreadRunnable" qualified="false" references="true" similarDeclarations="false" stamp="1601531262812" textual="false" version="1.0"/>
-</session>

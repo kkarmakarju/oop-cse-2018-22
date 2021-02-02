@@ -1,7 +1,0 @@
-
-public class Account {
-	String accno;
-	String customerName;
-	
-	
-}

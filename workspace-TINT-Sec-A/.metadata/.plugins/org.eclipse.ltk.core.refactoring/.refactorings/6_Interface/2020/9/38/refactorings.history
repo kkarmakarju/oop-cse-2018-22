@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename type &apos;savingsAcc&apos; to &apos;SavingsAcc&apos;&#x0D;&#x0A;- Original project: &apos;6_Interface&apos;&#x0D;&#x0A;- Original element: &apos;savingsAcc&apos;&#x0D;&#x0A;- Renamed element: &apos;SavingsAcc&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;savingsAcc&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{savingsAcc.java[savingsAcc" matchStrategy="1" name="SavingsAcc" qualified="false" references="true" similarDeclarations="false" stamp="1600427720676" textual="false" version="1.0"/>
-</session>
